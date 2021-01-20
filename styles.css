@@ -1,0 +1,352 @@
+@font-face {
+    font-family: Gabelisa;
+    src: url("./fonts/Gabelisa\ Font\ by\ Keithzo\ \(7NTypes\).otf");
+}
+
+.nav-ul{
+    font-size: 17px;
+    letter-spacing: 5px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+}
+.section-1{
+    background-image: url("./images/section1-image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.section1-left > h6{
+    font-family: Gabelisa;
+    font-size: 58px;
+    color: #000000;
+}
+.section1-left{
+    margin-top: 90px;
+}
+.section1-left>h1{
+    font-size: 90px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Fredericka the Great";
+}
+.section1-left>h4{
+    font-size: 27px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+}
+.my-line{
+    height: 2px;
+    width: 60%;
+    background-color: #000000;
+}
+.eq-left{
+    display: inline-block;
+    width: 45%;
+    font-size: 19px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Fredericka the Great";
+}
+.eq-right{
+    width: 45%;
+    display: inline-block;
+    
+
+}
+.eq-right > h6{
+    font-size: 50px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Fredericka the Great";
+}
+.order-button{
+    background-color: rgba(248,23,23,0);
+    border: 1px solid #000000;
+    font-size: 21px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+    border-radius: 0%;
+    margin-bottom: 80px ;
+}
+.section-2-title> h2 {
+    font-size: 50px;
+    line-height: 38px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Fredericka the Great";
+    margin-bottom: 50px;
+}
+.section-2-title> p {
+    width: 1082px;
+    height: 56px;
+    font-size: 17px;
+    line-height: 29px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section2-items> h3 {
+    font-size: 21px;
+    line-height: 38px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section2-items> p{
+    width: 367px;
+    height: 51px;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section2-items>order1{
+    width: 195px;
+    height: 57px;
+    background-color: #ffe001;
+    font-size: 17px;
+    line-height: 38px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+
+}
+.section2-items2> h3 {
+    font-size: 21px;
+    line-height: 38px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section2-items2> p{
+    width: 367px;
+    height: 51px;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section2-items2>order1{
+    width: 195px;
+    height: 57px;
+    background-color: #ffe001;
+    font-size: 17px;
+    line-height: 38px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+}.section2-items3> h3 {
+    font-size: 21px;
+    line-height: 38px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section2-items3> p{
+    width: 367px;
+    height: 51px;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section2-items3>order1{
+    width: 195px;
+    height: 57px;
+    background-color: #ffe001;
+    font-size: 17px;
+    line-height: 38px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+}
+.section3-title> h6 {
+    font-size: 21px;
+    letter-spacing: 1px;
+    line-height: 46px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section3-title> h3 {
+    font-size: 42px;
+    line-height: 46px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Fredericka the Great";
+    text-align: center;
+}
+.section3-title> p{
+    width: 1035px;
+    height: 60px;
+    font-size: 17px;
+    line-height: 25px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section3-middle-img{
+    position: absolute;
+    transform: scale(1.8);
+    z-index:999;
+    top: 18%;
+}
+.section3-col > img{
+    width: 100%;
+}
+
+/* section 4 style start */
+    .leftdiv-text{
+        position: absolute;
+        left:5%;
+        top:5%;
+        font-size: 25px;
+        line-height: 38px;
+        color: #ffffff;
+        font-weight: 700;
+        font-family: "Montserrat";
+
+    }
+    .right-div-upper-text{
+        position: absolute;
+        left:5% ;
+        top:5% ;
+        font-size: 25px;
+        line-height: 38px;
+        color: #ffffff;
+        font-weight: 700;
+        font-family: "Montserrat";
+    }
+    .right-div-lower-text{
+        position: absolute;
+        left: 5%;
+        top: 5%;
+        font-size: 25px;
+        line-height: 38px;
+        color: #ffffff;
+        font-weight: 700;
+        font-family: "Montserrat";
+    }
+
+
+/* section 4 style end */
+.section5-title>h6{
+    font-size: 21px;
+    letter-spacing: 1px;
+    line-height: 46px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.section5-title>h3{
+    font-size: 50px;
+    letter-spacing: 3px;
+    line-height: 46px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Fredericka the Great";
+    text-align: center;
+}
+.section5-inputdiv1> input{
+    border-radius: 5px;
+    background-color: rgba(235,174,76,0);
+    border: 1px solid #bebebe;
+    margin-bottom: 20px;
+    font-size: 17px;
+    line-height: 46px;
+    color: #3d3d3d;
+    font-weight: 400;
+    font-family: "Montserrat";
+    
+}
+.section5-inputdiv2> input{
+    border-radius: 5px;
+    background-color: rgba(235,174,76,0);
+    border: 1px solid #bebebe;
+    margin-bottom: 20px;
+    font-size: 17px;
+    line-height: 46px;
+    color: #3d3d3d;
+    font-weight: 400;
+    font-family: "Montserrat";
+}
+.section5-inputdiv2> button{
+    border-radius: 5px;
+    font-size: 21px;
+    line-height: 46px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Montserrat";
+    background-color: #ffe001;
+    height: 50px;
+   
+}
+.section-6{
+    background-image: url(./images/BG\ Image\ last\ section.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.section7-right-div>span{
+    font-size: 21px;
+    line-height: 38px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Bebas Neue";
+    
+}
+.left-div>p{
+    font-size: 17px;
+    line-height: 25px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Montserrat";
+}
+.left-div>h6{
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Montserrat";
+    margin-top:  200px;
+    margin-left: 30px;
+}
+.section6-right-div > .email-address {
+    font-size: 21px;
+    line-height: 38px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Bebas Neue";
+    text-align: right 100px;
+    
+}
+.section6-right-div{
+    padding-left: 150px !important;
+}
+.icon-div{
+    margin-top:330px ;
+
+}
+.icon-ul{
+    margin-left: 350px!important;
+    list-style: none;
+}    
+.icon-ul>li{
+   display: inline;
+   margin-left: 10px;
+   
+}
